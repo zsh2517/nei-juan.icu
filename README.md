@@ -1,2 +1,3 @@
 # nei-juan.icu
-website "nei-juan.icu“ temporary storage
+
+咕咕咕，最近的 deadline 赶完再说
